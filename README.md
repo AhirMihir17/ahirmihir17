@@ -43,7 +43,7 @@ I'm **Mihir Ahir**, a Flutter Developer based in **Rajkot, Gujarat, India**, wit
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Technical Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,java,c,firebase,mysql,git,github,gitlab,androidstudio,vscode,postman,figma&theme=light&perline=7" />
