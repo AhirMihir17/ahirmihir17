@@ -31,7 +31,6 @@
 
 I'm **Mihir Ahir**, a Flutter Developer based in **Rajkot, Gujarat, India**, with a B.Tech in Information Technology from Atmiya University. I specialize in building **cross-platform mobile applications** for Android and iOS from a single Flutter codebase — from UI to API integration to release.
 
-- 🎯 Currently building production apps at **Sphere Rays Techno Lab**
 - 📱 I ship **cross-platform mobile apps** that run on Android & iOS from a single codebase
 - 🧩 Focused on **clean architecture**, **scalable state management**, and **app performance optimization**
 - 🔗 Comfortable with **REST APIs**, **BLoC / GetX**, **Firebase**, and **Razorpay** payment integration
